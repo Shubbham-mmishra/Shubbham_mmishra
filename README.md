@@ -26,22 +26,22 @@
 
 <br>
 
-!shubham GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=aliArafat9&show_icons=true&theme=tokyonight&border_radius=7.6)
+!shubham GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=Shubbham_mmishra&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 <br>
 
-![Arafat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![Arafat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubbham_mmishra&theme=tokyonight&border_radius=7.6)
 
 <br/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliArafat9&theme=onedark)](https://github.com/aliArafat9/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shubbham_mmishra&theme=onedark)](https://github.com/Shubbham_mmishra/github-profile-trophy)
 
 <br>
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning DSA using Java.
-- 👨‍💻 All of my projects are available at [https://github.com/aliArafat9](https://github.com/aliArafat9)
+- 👨‍💻 All of my projects are available at [https://github.com/Shubbham_mmishra](https://github.com/Shubbham_mmishra)
 
 <br>
 
@@ -120,15 +120,15 @@
 <br>
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aliArafat9&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aliArafat9/github-readme-stats)
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=Shubbham_mmishra&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/Shubbham_mmishra/github-readme-stats)
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubbham_mmishra&theme=tokyonight&border_radius=7.6)
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubbham_mmishra&theme=tokyonight&border_radius=7.6)
 
 <br>
 
@@ -142,12 +142,12 @@
 <br>
 
 # 📊 GitHub Contribution Graph:
-[![Arafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliArafat9&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubbham_mmishra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 # 📊 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliArafat9&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shubbham_mmishra&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
 
 <br>
